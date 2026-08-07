@@ -20,7 +20,7 @@ classifiers = [
   "Topic :: Text Processing :: Markup :: Markdown",
 ]
 dependencies = [
-  "markitdown[docx,pdf,pptx,xlsx]==0.1.6",
+  "markitdown[docx,pdf,pptx,xlsx]==0.1.7",
   "mistralai==2.6.0",
   "pypdf==6.9.1",
 ]
